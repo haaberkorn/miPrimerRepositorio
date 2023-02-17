@@ -1,5 +1,6 @@
 menu
-article
+historia
 fotos
 Valoracion
+contacto
 footer
