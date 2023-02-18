@@ -1,9 +1,5 @@
 menu
 article
 fotos
+Valoracion
 footer
-swq
-sw
-sws
-w
-s
